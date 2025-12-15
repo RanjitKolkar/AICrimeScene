@@ -59,11 +59,18 @@ with st.container():
         st.image("nfsu emblem logo.png", use_container_width=True)
     with col2:
         st.markdown("""
-        ### National Forensic Sciences University, Goa Campus  
-        ### Workshop on 
-        ## Use of Artificial Intelligence in Crime Scene Investigation
-        📅 **Tuesday, 27 January 2026** | ⏳ **One Day** | 🏫 **Offline Mode**
-        """)
+        <div style="text-align: center;">
+            <h3>National Forensic Sciences University, Goa Campus</h3>
+            <h3>Workshop on</h3>
+            <h2>Use of Artificial Intelligence in Crime Scene Investigation</h2>
+            <p style="font-size:16px;">
+                📅 <b>Tuesday, 27 January 2026</b> |
+                ⏳ <b>One Day</b> |
+                🏫 <b>Offline Mode</b>
+            </p>
+        </div>
+        """, unsafe_allow_html=True)
+
 
 st.markdown("---")
 
