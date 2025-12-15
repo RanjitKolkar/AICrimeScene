@@ -69,9 +69,7 @@ st.markdown("---")
 # ============ ABOUT ============
 st.subheader("📌 About the Workshop")
 st.write("""
-This **one-day workshop** aims to introduce participants to the role of **Artificial Intelligence in crime scene investigation and cybercrime analysis**.  
-The programme focuses on conceptual understanding, real-world case studies, and hands-on exposure to AI tools relevant to law enforcement and forensic professionals.
-""")
+This **one-day workshop** aims to introduce participants to the role of **Artificial Intelligence in crime scene investigation and cybercrime analysis**. The programme focuses on conceptual understanding, real-world case studies, and hands-on exposure to AI tools relevant to law enforcement and forensic professionals. This one-day workshop is designed to familiarize participants with the application of Artificial Intelligence in crime scene investigation and cybercrime analysis. The programme emphasizes a balanced approach combining conceptаoretical foundations, real-world case studies, and hands-on interaction with AI-based tools, enabling law enforcement and forensic professionals to effectively understand and apply AI-driven techniques in investigative practices.""")
 
 # ============ OBJECTIVES ============
 st.subheader("🎯 Objectives of the Workshop")
@@ -140,10 +138,16 @@ st.markdown("""
 # ============ ORGANIZING COMMITTEE ============
 st.subheader("👥 Organizing Committee")
 st.markdown("""
+<div class="highlight-box">
+<b>Chief Patron:</b> Dr. J. M. Vyas, Hon'ble Vice-Chancellor, NFSU <br>
+<b>Chair:</b> Prof. (Dr.) Naveen Kumar Chaudhary, Director, NFSU Goa  <br>
+<b>Co-Chair:</b> Dr. Lokesh Chouhan, Dean Academics, NFSU Goa  <br>
 <b>Coordinator / Convener:</b> Dr. Ranjit Kolkar<br>
-<b>Co-Coordinators:</b> Dr. Jovi D’Silva, Mr. Dova Nani<br>
-<b>Resource Persons:</b> Faculty Members, NFSU Goa
+<b>Co-Coordinators:</b> Dr. Jovi D’Silva<br>
 """, unsafe_allow_html=True)
+
+
+
 
 # ============ FOOTER ============
 st.markdown("---")
