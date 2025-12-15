@@ -105,7 +105,7 @@ st.markdown("""
 | Time | Session | Resource Person |
 |------|--------|----------------|
 | 09:30 – 10:00 AM | Registration & Welcome Tea | — |
-| 10:00 – 10:30 AM | Inaugural Session | Campus Director, NFSU Goa |
+| 10:00 – 10:30 AM | Inaugural Session |  Prof. (Dr.) Naveen Kumar Chaudhary, Director, NFSU Goa  |
 | 10:30 – 11:15 AM | Introduction to AI and Cyber Crime | Dr. Ranjit Kolkar, Assistant Professor, NFSU Goa |
 | 11:15 – 11:30 AM | Tea Break |
 | 11:30 – 01:00 PM | AI Applications & Case Studies in Cyber Crime and Policing | Dr. Jovi D’Silva, Assistant Professor, NFSU Goa |
