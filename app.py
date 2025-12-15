@@ -60,7 +60,8 @@ with st.container():
     with col2:
         st.markdown("""
         ### National Forensic Sciences University, Goa Campus  
-        ## Workshop on "Use of Artificial Intelligence in Crime Scene Investigation"  
+        ### Workshop on 
+        ## Use of Artificial Intelligence in Crime Scene Investigation
         📅 **Tuesday, 27 January 2026** | ⏳ **One Day** | 🏫 **Offline Mode**
         """)
 
@@ -151,4 +152,6 @@ st.markdown("""
 
 # ============ FOOTER ============
 st.markdown("---")
+st.markdown('<div class="footer">Contact <b><href>ranjit.kolkar@nfsu.ac.in</href></b> Mobile:<b>8618879217</b></div>', unsafe_allow_html=True)
+
 st.markdown('<div class="footer">📍 Organized by <b>National Forensic Sciences University, Goa Campus</b></div>', unsafe_allow_html=True)
