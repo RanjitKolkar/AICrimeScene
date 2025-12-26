@@ -159,6 +159,6 @@ st.markdown("""
 
 # ============ FOOTER ============
 st.markdown("---")
-st.markdown('<div class="footer">Contact <b><href>ranjit.kolkar@nfsu.ac.in</href></b> Mobile:<b>8618879217</b><b><href>jovi.dsilva@nfsu.ac.in</href></b> Mobile:<b>+91 77740 97231</b></div>', unsafe_allow_html=True)
+st.markdown('<div class="footer">Contact <b><href>ranjit.kolkar@nfsu.ac.in</href></b> Mobile:<b>8618879217</b>,<hr><b><href>jovi.dsilva@nfsu.ac.in</href></b> Mobile:<b>+91 77740 97231</b></div>', unsafe_allow_html=True)
 
 st.markdown('<div class="footer">📍 Organized by <b>National Forensic Sciences University, Goa Campus</b></div>', unsafe_allow_html=True)
