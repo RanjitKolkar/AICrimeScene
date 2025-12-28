@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Workshop on AI in Crime Scene Investigation",
-    page_icon="🧠",
+    page_icon="🕵️‍♂️",
     layout="wide",
     initial_sidebar_state="auto"
 )
