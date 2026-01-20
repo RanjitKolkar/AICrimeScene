@@ -112,7 +112,7 @@ st.markdown("""
 | 01:00 – 02:00 PM | Lunch Break |
 | 02:00 – 03:00 PM | Demonstration of AI Tools for Crime Analysis | Dr. Jovi D’Silva, Assistant Professor, NFSU Goa |
 | 03:15 – 03:30 PM | Tea Break  |
-| 03:30 – 04:30 PM | Panel Discussion: Ethics & Challenges in AI for Law Enforcement | Academia, Law Enforcement & Industry |
+| 03:30 – 04:30 PM | AI: A Double-Edged Sword — Empowering Criminal Justice or Enabling Criminals | Academia, Law Enforcement & Industry |
 | 04:30 – 05:00 PM | Valedictory & Certificate Distribution | — |
 """)
 
