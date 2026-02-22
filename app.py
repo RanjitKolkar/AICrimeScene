@@ -136,9 +136,9 @@ st.markdown("""
 st.info("👉 Note: Accommodation is not provided by NFSU Goa. Participants will be assisted in identifying nearby accommodation if required.")
 
 st.markdown("""
-<a href="https://forms.gle/Mce8Kd5rJoDPdXCR8" target="_blank">
+<a href="#" target="_blank">
 <button style="background-color:#1E90FF;color:white;padding:12px 24px;border:none;border-radius:8px;font-size:16px;">
-📌 Register Here
+📌 Register closed
 </button>
 </a>
 """, unsafe_allow_html=True)
